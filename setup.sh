@@ -30,6 +30,7 @@ firefox                                                                         
     https://addons.mozilla.org/en-US/firefox/addon/nuke-anything-enhanced                               \
     https://addons.mozilla.org/en-US/firefox/addon/privacy-possum                                       \
     https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite                             \
+    https://addons.mozilla.org/en-GB/firefox/addon/old-reddit-redirect                                  \
     https://addons.mozilla.org/en-US/firefox/addon/reload-all-tabs                                      \
     https://addons.mozilla.org/en-US/firefox/addon/session-manager                                      \
     https://addons.mozilla.org/en-US/firefox/addon/startpage-https-privacy-search                       \
