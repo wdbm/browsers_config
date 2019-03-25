@@ -8,6 +8,7 @@ firefox                                                                         
     https://addons.mozilla.org/en-US/firefox/addon/darkreader                                           \
     https://addons.mozilla.org/en-US/firefox/addon/decentraleyes                                        \
     https://addons.mozilla.org/en-US/firefox/addon/ether-metamask                                       \
+    https://addons.mozilla.org/en-US/firefox/addon/fbclid-fixed                                         \
     https://addons.mozilla.org/en-US/firefox/addon/fvd-speed-dial                                       \
     https://addons.mozilla.org/en-US/firefox/addon/image-picker                                         \
     https://addons.mozilla.org/en-US/firefox/addon/newsguard                                            \
