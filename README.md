@@ -34,6 +34,12 @@ youtube.com##.ytp-scroll-max.ytp-scroll-min.ytp-pause-overlay
 youtube.com##.ytp-title-channel
 ```
 
+# privacy
+
+## DNS over HTTPS
+
+Access Connection Settings and select "Enable DNS over HTTPS".
+
 # credentials storage
 
 - [Amazon UK](https://www.amazon.co.uk/)
