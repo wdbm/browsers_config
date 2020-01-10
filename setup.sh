@@ -21,6 +21,7 @@ firefox                                                                         
     https://addons.mozilla.org/en-US/firefox/addon/text-multicopy                                       \
     https://addons.mozilla.org/en-US/firefox/addon/tumblr-high-quality                                  \
     https://addons.mozilla.org/en-US/firefox/addon/ublock-origin                                        \
+    https://addons.mozilla.org/en-US/firefox/addon/uaswitcher                                           \
     https://addons.mozilla.org/en-US/firefox/addon/umatrix                                              \
     https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper
 echo "install Chromium extensions"
