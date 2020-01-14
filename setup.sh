@@ -3,6 +3,7 @@ echo "install Firefox add-ons"
 firefox                                                                                                 \
     https://addons.mozilla.org/en-GB/firefox/addon/old-reddit-redirect                                  \
     https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click                          \
+    https://addons.mozilla.org/en-US/firefox/addon/amp2html                                             \
     https://addons.mozilla.org/en-US/firefox/addon/bypasspaywalls                                       \
     https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete                                    \
     https://addons.mozilla.org/en-US/firefox/addon/darkreader                                           \
@@ -20,8 +21,8 @@ firefox                                                                         
     https://addons.mozilla.org/en-US/firefox/addon/startpage-https-privacy-search                       \
     https://addons.mozilla.org/en-US/firefox/addon/text-multicopy                                       \
     https://addons.mozilla.org/en-US/firefox/addon/tumblr-high-quality                                  \
-    https://addons.mozilla.org/en-US/firefox/addon/ublock-origin                                        \
     https://addons.mozilla.org/en-US/firefox/addon/uaswitcher                                           \
+    https://addons.mozilla.org/en-US/firefox/addon/ublock-origin                                        \
     https://addons.mozilla.org/en-US/firefox/addon/umatrix                                              \
     https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper
 echo "install Chromium extensions"
