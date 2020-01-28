@@ -40,6 +40,10 @@ youtube.com##.ytp-title-channel
 
 Access Connection Settings and select "Enable DNS over HTTPS".
 
+## block location requests
+
+- Firefox: Block new requests asking to access your location: True
+
 # save as MHTML (web page in single file) (Chromium)
 
 - <chrome://flags/#save-page-as-mhtml>
