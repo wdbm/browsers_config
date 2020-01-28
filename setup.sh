@@ -9,9 +9,12 @@ firefox                                                                         
     https://addons.mozilla.org/en-US/firefox/addon/darkreader                                           \
     https://addons.mozilla.org/en-US/firefox/addon/decentraleyes                                        \
     https://addons.mozilla.org/en-US/firefox/addon/ether-metamask                                       \
+    https://addons.mozilla.org/en-US/firefox/addon/facebook-container                                   \
     https://addons.mozilla.org/en-US/firefox/addon/fbclid-fixed                                         \
     https://addons.mozilla.org/en-US/firefox/addon/fvd-speed-dial                                       \
+    https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect                                    \
     https://addons.mozilla.org/en-US/firefox/addon/image-picker                                         \
+    https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers                             \
     https://addons.mozilla.org/en-US/firefox/addon/newsguard                                            \
     https://addons.mozilla.org/en-US/firefox/addon/nuke-anything-enhanced                               \
     https://addons.mozilla.org/en-US/firefox/addon/privacy-possum                                       \
@@ -21,6 +24,7 @@ firefox                                                                         
     https://addons.mozilla.org/en-US/firefox/addon/startpage-https-privacy-search                       \
     https://addons.mozilla.org/en-US/firefox/addon/text-multicopy                                       \
     https://addons.mozilla.org/en-US/firefox/addon/tumblr-high-quality                                  \
+    https://addons.mozilla.org/en-US/firefox/addon/twitter-container                                    \
     https://addons.mozilla.org/en-US/firefox/addon/uaswitcher                                           \
     https://addons.mozilla.org/en-US/firefox/addon/ublock-origin                                        \
     https://addons.mozilla.org/en-US/firefox/addon/umatrix                                              \
