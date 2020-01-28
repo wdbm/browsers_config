@@ -12,6 +12,7 @@ firefox                                                                         
     https://addons.mozilla.org/en-US/firefox/addon/facebook-container                                   \
     https://addons.mozilla.org/en-US/firefox/addon/fbclid-fixed                                         \
     https://addons.mozilla.org/en-US/firefox/addon/fvd-speed-dial                                       \
+    https://addons.mozilla.org/en-US/firefox/addon/google-translator-for-firefox                        \
     https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect                                    \
     https://addons.mozilla.org/en-US/firefox/addon/image-picker                                         \
     https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers                             \
