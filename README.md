@@ -40,6 +40,12 @@ youtube.com##.ytp-title-channel
 
 Access Connection Settings and select "Enable DNS over HTTPS".
 
+## Firefox Multi-Account Containers
+
+![](2020-01-28T2349Z.png)
+
+- [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers)
+
 ## block location requests
 
 - Firefox: Block new requests asking to access your location: True
