@@ -13,6 +13,7 @@ firefox                                                                         
     https://addons.mozilla.org/en-US/firefox/addon/fbclid-fixed                                              \
     https://addons.mozilla.org/en-US/firefox/addon/google-translator-for-firefox                             \
     https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers                                  \
+    https://addons.mozilla.org/en-US/firefox/addon/nitter-redirect                                           \
     https://addons.mozilla.org/en-US/firefox/addon/nuke-anything-enhanced                                    \
     https://addons.mozilla.org/en-US/firefox/addon/privacy-possum                                            \
     https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite                                  \
@@ -34,6 +35,7 @@ chromium-browser --new-window                                                   
     https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl      \
     https://chrome.google.com/webstore/detail/history-onoff/ljbpakpmiimdmblcjjhhbfabbkmcgmdp                 \
     https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj              \
+    https://chrome.google.com/webstore/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje           |
     https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn                      \
     https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb      \
     https://chrome.google.com/webstore/detail/reload-all-tabs/midkcinmplflbiflboepnahkboeonkam               \
