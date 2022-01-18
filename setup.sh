@@ -11,6 +11,7 @@ firefox                                                                         
     https://addons.mozilla.org/en-US/firefox/addon/ether-metamask                                            \
     https://addons.mozilla.org/en-US/firefox/addon/facebook-container                                        \
     https://addons.mozilla.org/en-US/firefox/addon/fbclid-fixed                                              \
+    https://addons.mozilla.org/en-GB/firefox/addon/gnome-shell-integration                                   \
     https://addons.mozilla.org/en-US/firefox/addon/google-translator-for-firefox                             \
     https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers                                  \
     https://addons.mozilla.org/en-US/firefox/addon/nitter-redirect                                           \
