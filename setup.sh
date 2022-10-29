@@ -5,6 +5,7 @@ firefox                                                                         
     https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click                               \
     https://addons.mozilla.org/en-US/firefox/addon/amp2html                                                  \
     https://github.com/iamadamdev/bypass-paywalls-chrome/releases/latest/download/bypass-paywalls-firefox.xpi\
+    https://addons.mozilla.org/en-US/firefox/addon/archive-page                                              \
     https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic                                           \
     https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete                                         \
     https://addons.mozilla.org/en-US/firefox/addon/history-autodelete                                        \
