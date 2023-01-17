@@ -32,7 +32,11 @@ youtube.com##.ytp-ce-element-show
 youtube.com##.ytp-pause-overlay
 youtube.com##.ytp-scroll-max.ytp-scroll-min.ytp-pause-overlay
 youtube.com##.ytp-title-channel
+twitter.com###credential_picker_container
 twitter.com##html:style(overflow: auto !important)
+twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n
+twitter.com##+js(cookie-remover, guest_id)
+twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n
 ```
 
 # privacy
