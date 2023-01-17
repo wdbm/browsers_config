@@ -32,6 +32,7 @@ youtube.com##.ytp-ce-element-show
 youtube.com##.ytp-pause-overlay
 youtube.com##.ytp-scroll-max.ytp-scroll-min.ytp-pause-overlay
 youtube.com##.ytp-title-channel
+twitter.com##html:style(overflow: auto !important)
 ```
 
 # privacy
