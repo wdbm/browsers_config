@@ -6,6 +6,7 @@ firefox                                                                         
     https://addons.mozilla.org/en-US/firefox/addon/amp2html                                                  \
     https://github.com/iamadamdev/bypass-paywalls-chrome/releases/latest/download/bypass-paywalls-firefox.xpi\
     https://addons.mozilla.org/en-US/firefox/addon/archive-page                                              \
+    https://addons.mozilla.org/en-US/firefox/addon/clickbait-remover-for-youtube                             \
     https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic                                           \
     https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete                                         \
     https://addons.mozilla.org/en-US/firefox/addon/history-autodelete                                        \
@@ -35,6 +36,7 @@ echo "install Chromium extensions"
 chromium-browser --new-window                                                                                \
     https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj     \
     https://github.com/iamadamdev/bypass-paywalls-chrome                                                     \
+    https://chromewebstore.google.com/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip      \
     https://chrome.google.com/webstore/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd               \
     https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh                   \
     https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij            \
