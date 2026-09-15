@@ -26,5 +26,5 @@ $CODEX_BIN
 ```
 
 ```prompt
-Please open Firefox via MCP, go to startpage.com, search for the weather in São Paulo and then report very briefly what the weather is this week?
+Please open Firefox via MCP, go to startpage.com, search for the weather in São Paulo and then report very briefly what the weather is this week.
 ```
