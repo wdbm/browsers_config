@@ -47,3 +47,10 @@ Please open Firefox via MCP, go to startpage.com, search for the weather in São
 ```prompt
 Using the Firefox DevTools MCP, please launch Firefox with `headless: true`. Make the initial browser calls sequentially. Before browsing, call `get_firefox_info` and confirm it reports `Headless: Yes`. If it does not, stop and report the failure. Then visit DuckDuckGo, search for São Paulo’s weather this week, and summarise the results.
 ```
+
+The MCP registrations can be removed in ways like the following:
+
+```Bash
+"${CODEX_BIN}" mcp remove firefox-devtools
+"${CODEX_BIN}" mcp remove firefox-devtools-headless
+```
