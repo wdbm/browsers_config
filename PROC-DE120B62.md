@@ -21,10 +21,29 @@ $CODEX_BIN mcp add firefox-devtools \
     --profile-path "${FIREFOX_MCP_PROFILE}"
 ```
 
+For a headless configuration, the option `--headless` or `--env "FIREFOX_HEADLESS=true"` can be used, or a separate registration can be made:
+
+```Bash
+$CODEX_BIN mcp add firefox-devtools-headless \
+    --env "DISPLAY=${DISPLAY}" \
+    --env "WAYLAND_DISPLAY=${WAYLAND_DISPLAY}" \
+    --env "XDG_RUNTIME_DIR=${XDG_RUNTIME_DIR}" \
+    -- \
+    npx -y @mozilla/firefox-devtools-mcp@latest \
+    --firefox-path "${FIREFOX_MCP_BIN}" \
+    --profile-path "${FIREFOX_MCP_PROFILE}" \
+    --headless \
+    --viewport 1860x1020
+```
+
 ```Bash
 $CODEX_BIN
 ```
 
 ```prompt
 Please open Firefox via MCP, go to startpage.com, search for the weather in São Paulo and then report very briefly what the weather is this week.
+```
+
+```prompt
+Using the Firefox DevTools MCP, please launch Firefox with `headless: true`. Make the initial browser calls sequentially. Before browsing, call `get_firefox_info` and confirm it reports `Headless: Yes`. If it does not, stop and report the failure. Then visit DuckDuckGo, search for São Paulo’s weather this week, and summarise the results.
 ```
